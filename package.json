@@ -1,10 +1,7 @@
 {
   "name": "recipe-app",
   "version": "1.0.0",
-  "homepage": "https://migscay.github.io/recipe-app",
   "scripts": {
-    "predeploy": "blitz build",
-    "deploy": "gh-pages -d build",
     "start": "blitz start",
     "studio": "blitz prisma studio",
     "build": "blitz build",
